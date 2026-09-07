@@ -1,0 +1,10 @@
+{
+  "name": "AI Smart Notebook",
+  "description": "Converts handwritten notes, scans, and documents into structured digital notebooks, diagrams, PDFs, and an interactive AI classroom tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-nastaliq {
+    font-family: 'Noto Nastaliq Urdu', serif;
+    line-height: 2.2;
+  }
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
